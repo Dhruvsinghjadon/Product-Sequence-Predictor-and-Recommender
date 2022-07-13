@@ -1,5 +1,6 @@
 # Product-Sequence-Predictor-and-Recommender
-| Command | Description |
+## Libraries Used
+| Library | Function |
 | --- | --- |
 | numpy | To manipulate the data |
 | pandas| To manipulate the data|
