@@ -23,3 +23,6 @@ After a customer purchases the product from Olist Store a seller gets notified t
 ## Database Schema
 
 ![Project recomand](https://user-images.githubusercontent.com/75934644/178632262-2b5fe4c4-94e7-4929-a072-bc1345654412.png)
+ ## Conclusion & Future Work
+
+The API works accurately, however, takes a lot of time to render the output owing to the large size of the dataset, time complexity of generating association rules and building the chain. When deployed on a larger scale, the working of the algorithm can be parallelized to improve the time efficiency and achieve micro-second response. Also, the database can be dynamically updated to store the entries of the new purchases made by the customer, which may lead to changes in the chain of products and cross-category sales.
